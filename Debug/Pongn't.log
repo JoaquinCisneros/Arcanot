@@ -1,0 +1,4 @@
+﻿  Player.cpp
+C:\Users\usuario\source\repos\Pongn't\Pongn't\Player.cpp(10,33): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\usuario\source\repos\Pongn't\Pongn't\Player.cpp(10,25): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Pongn't.vcxproj -> C:\Users\usuario\source\repos\Pongn't\Debug\Pongn't.exe
